@@ -1,5 +1,5 @@
 def oxford_comma(array)
-   
+   badge_array = []
   
   else
     last_element = "and, #{array[-1]}"
